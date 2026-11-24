@@ -1,0 +1,2408 @@
+{
+ "bpm": 160,
+ "eighth_s": 0.1875,
+ "bar_s": 1.5,
+ "n_bars": 76,
+ "seconds": 114.0,
+ "sections": [
+  [
+   "A",
+   0,
+   "fear: black, the wheel"
+  ],
+  [
+   "B",
+   4,
+   "warmth and comedy"
+  ],
+  [
+   "C",
+   16,
+   "dread"
+  ],
+  [
+   "D",
+   24,
+   "action chorus"
+  ],
+  [
+   "E",
+   36,
+   "sadness, half-time"
+  ],
+  [
+   "F",
+   48,
+   "Sukuna: ritual, heavy"
+  ],
+  [
+   "F5",
+   56,
+   "stop-time, fire"
+  ],
+  [
+   "H",
+   58,
+   "wrath chorus, up a tone"
+  ],
+  [
+   "G",
+   66,
+   "snow, forgiveness"
+  ]
+ ],
+ "chords": [
+  "Dm",
+  "Dm",
+  "Dm",
+  "Dm",
+  "F",
+  "C/E",
+  "Dm7",
+  "Bb",
+  "F",
+  "C/E",
+  "Dm7",
+  "Bb",
+  "Gm7",
+  "Am7",
+  "Bb",
+  "A7",
+  "Dm",
+  "Dm/C",
+  "Bb",
+  "A7",
+  "Gm",
+  "Dm/F",
+  "Eb",
+  "A7",
+  "Bb",
+  "C",
+  "Am",
+  "Dm",
+  "Bb",
+  "C",
+  "Am",
+  "Dm",
+  "Bb",
+  "C",
+  "Am",
+  "Dm",
+  "Bbmaj7",
+  "F/A",
+  "Gm7",
+  "F",
+  "Eb",
+  "Bb/D",
+  "Gm7",
+  "A7sus4",
+  "Bb",
+  "C",
+  "Dm",
+  "A7",
+  "D5",
+  "D5",
+  "D5",
+  "Eb5",
+  "D5",
+  "Eb5",
+  "F5",
+  "Eb5",
+  "N",
+  "A7b9",
+  "C",
+  "D",
+  "Bm",
+  "Em",
+  "C",
+  "D",
+  "B7",
+  "Em",
+  "Cmaj7",
+  "G/B",
+  "Am7",
+  "D/F#",
+  "G",
+  "C",
+  "D",
+  "Cmaj7",
+  "G",
+  "G"
+ ],
+ "lines": [
+  {
+   "id": "b1",
+   "bar": 4,
+   "voice": "lead",
+   "ja": "ひだまりのなか ねむるひと",
+   "en": "In a patch of sun, someone is asleep",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "hi",
+     "pitch": "A3",
+     "t": 32,
+     "d": 1.0
+    },
+    {
+     "mora": "da",
+     "pitch": "C4",
+     "t": 33.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ma",
+     "pitch": "C4",
+     "t": 34.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ri",
+     "pitch": "A3",
+     "t": 35.0,
+     "d": 1.0
+    },
+    {
+     "mora": "no",
+     "pitch": "G3",
+     "t": 36.0,
+     "d": 1.0
+    },
+    {
+     "mora": "na",
+     "pitch": "A3",
+     "t": 37.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ka",
+     "pitch": "F3",
+     "t": 38.0,
+     "d": 2.0
+    },
+    {
+     "mora": "ne",
+     "pitch": "E3",
+     "t": 40.0,
+     "d": 1.0
+    },
+    {
+     "mora": "mu",
+     "pitch": "G3",
+     "t": 41.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ru",
+     "pitch": "G3",
+     "t": 42.0,
+     "d": 1.0
+    },
+    {
+     "mora": "hi",
+     "pitch": "A3",
+     "t": 43.0,
+     "d": 1.0
+    },
+    {
+     "mora": "to",
+     "pitch": "G3",
+     "t": 44.0,
+     "d": 4.0
+    }
+   ]
+  },
+  {
+   "id": "b2",
+   "bar": 6,
+   "voice": "lead",
+   "ja": "はしゃぐこえが さかみちを",
+   "en": "Laughing voices run down the hill",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "ha",
+     "pitch": "A3",
+     "t": 48,
+     "d": 1.0
+    },
+    {
+     "mora": "sha",
+     "pitch": "A3",
+     "t": 49.0,
+     "d": 1.0
+    },
+    {
+     "mora": "gu",
+     "pitch": "C4",
+     "t": 50.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ko",
+     "pitch": "D4",
+     "t": 51.0,
+     "d": 2.0
+    },
+    {
+     "mora": "e",
+     "pitch": "C4",
+     "t": 53.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ga",
+     "pitch": "A3",
+     "t": 54.0,
+     "d": 2.0
+    },
+    {
+     "mora": "sa",
+     "pitch": "Bb3",
+     "t": 56.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ka",
+     "pitch": "A3",
+     "t": 57.0,
+     "d": 1.0
+    },
+    {
+     "mora": "mi",
+     "pitch": "G3",
+     "t": 58.0,
+     "d": 1.0
+    },
+    {
+     "mora": "chi",
+     "pitch": "F3",
+     "t": 59.0,
+     "d": 1.0
+    },
+    {
+     "mora": "o",
+     "pitch": "G3",
+     "t": 60.0,
+     "d": 4.0
+    }
+   ]
+  },
+  {
+   "id": "b3",
+   "bar": 8,
+   "voice": "lead",
+   "ja": "だまれといえば またわらう",
+   "en": "Tell it to shut up and it laughs again",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "da",
+     "pitch": "C4",
+     "t": 64,
+     "d": 1.0
+    },
+    {
+     "mora": "ma",
+     "pitch": "C4",
+     "t": 65.0,
+     "d": 1.0
+    },
+    {
+     "mora": "re",
+     "pitch": "C4",
+     "t": 66.0,
+     "d": 1.0
+    },
+    {
+     "mora": "to",
+     "pitch": "A3",
+     "t": 67.0,
+     "d": 1.0
+    },
+    {
+     "mora": "i",
+     "pitch": "A3",
+     "t": 68.0,
+     "d": 1.0
+    },
+    {
+     "mora": "e",
+     "pitch": "G3",
+     "t": 69.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ba",
+     "pitch": "A3",
+     "t": 70.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ma",
+     "pitch": "G3",
+     "t": 72.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ta",
+     "pitch": "A3",
+     "t": 73.0,
+     "d": 1.0
+    },
+    {
+     "mora": "wa",
+     "pitch": "C4",
+     "t": 74.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ra",
+     "pitch": "D4",
+     "t": 75.0,
+     "d": 1.0
+    },
+    {
+     "mora": "u",
+     "pitch": "C4",
+     "t": 76.0,
+     "d": 3.0
+    }
+   ]
+  },
+  {
+   "id": "b4",
+   "bar": 10,
+   "voice": "lead",
+   "ja": "さいきょうだって うそぶいて",
+   "en": "\"I am the strongest,\" he boasts",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "sa",
+     "pitch": "D4",
+     "t": 80,
+     "d": 1.0
+    },
+    {
+     "mora": "i",
+     "pitch": "E4",
+     "t": 81.0,
+     "d": 1.0
+    },
+    {
+     "mora": "kyo",
+     "pitch": "F4",
+     "t": 82.0,
+     "d": 2.0
+    },
+    {
+     "mora": "da",
+     "pitch": "E4",
+     "t": 84.0,
+     "d": 1.0
+    },
+    {
+     "mora": "Q",
+     "pitch": "E4",
+     "t": 85.0,
+     "d": 1.0
+    },
+    {
+     "mora": "te",
+     "pitch": "D4",
+     "t": 86.0,
+     "d": 1.0
+    },
+    {
+     "mora": "u",
+     "pitch": "C4",
+     "t": 88.0,
+     "d": 1.0
+    },
+    {
+     "mora": "so",
+     "pitch": "D4",
+     "t": 89.0,
+     "d": 1.0
+    },
+    {
+     "mora": "bu",
+     "pitch": "C4",
+     "t": 90.0,
+     "d": 1.0
+    },
+    {
+     "mora": "i",
+     "pitch": "Bb3",
+     "t": 91.0,
+     "d": 1.0
+    },
+    {
+     "mora": "te",
+     "pitch": "D4",
+     "t": 92.0,
+     "d": 3.0
+    }
+   ]
+  },
+  {
+   "id": "b5",
+   "bar": 12,
+   "voice": "lead",
+   "ja": "ざんぎょうぎらいの あのひとも",
+   "en": "Even the one who hates overtime",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "za",
+     "pitch": "Bb3",
+     "t": 96,
+     "d": 1.0
+    },
+    {
+     "mora": "N",
+     "pitch": "Bb3",
+     "t": 97.0,
+     "d": 1.0
+    },
+    {
+     "mora": "gyo",
+     "pitch": "D4",
+     "t": 98.0,
+     "d": 2.0
+    },
+    {
+     "mora": "gi",
+     "pitch": "D4",
+     "t": 100.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ra",
+     "pitch": "C4",
+     "t": 101.0,
+     "d": 1.0
+    },
+    {
+     "mora": "i",
+     "pitch": "Bb3",
+     "t": 102.0,
+     "d": 1.0
+    },
+    {
+     "mora": "no",
+     "pitch": "A3",
+     "t": 103.0,
+     "d": 1.0
+    },
+    {
+     "mora": "a",
+     "pitch": "C4",
+     "t": 104.0,
+     "d": 1.0
+    },
+    {
+     "mora": "no",
+     "pitch": "C4",
+     "t": 105.0,
+     "d": 1.0
+    },
+    {
+     "mora": "hi",
+     "pitch": "E4",
+     "t": 106.0,
+     "d": 1.0
+    },
+    {
+     "mora": "to",
+     "pitch": "D4",
+     "t": 107.0,
+     "d": 1.0
+    },
+    {
+     "mora": "mo",
+     "pitch": "C4",
+     "t": 108.0,
+     "d": 4.0
+    }
+   ]
+  },
+  {
+   "id": "b6",
+   "bar": 14,
+   "voice": "lead",
+   "ja": "おなじゆうひを みていた",
+   "en": "Was watching the same sunset",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "o",
+     "pitch": "D4",
+     "t": 112,
+     "d": 1.0
+    },
+    {
+     "mora": "na",
+     "pitch": "D4",
+     "t": 113.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ji",
+     "pitch": "F4",
+     "t": 114.0,
+     "d": 1.0
+    },
+    {
+     "mora": "yu",
+     "pitch": "F4",
+     "t": 115.0,
+     "d": 2.0
+    },
+    {
+     "mora": "hi",
+     "pitch": "E4",
+     "t": 117.0,
+     "d": 1.0
+    },
+    {
+     "mora": "o",
+     "pitch": "D4",
+     "t": 118.0,
+     "d": 1.0
+    },
+    {
+     "mora": "mi",
+     "pitch": "E4",
+     "t": 120.0,
+     "d": 1.0
+    },
+    {
+     "mora": "te",
+     "pitch": "D4",
+     "t": 121.0,
+     "d": 1.0
+    },
+    {
+     "mora": "i",
+     "pitch": "C4",
+     "t": 122.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ta",
+     "pitch": "C4>C#4",
+     "t": 123.0,
+     "d": 5.0
+    }
+   ]
+  },
+  {
+   "id": "c1",
+   "bar": 16,
+   "voice": "lead",
+   "ja": "そらがとじる よるがくる",
+   "en": "The sky closes, the night comes",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "so",
+     "pitch": "D4",
+     "t": 128,
+     "d": 1.0
+    },
+    {
+     "mora": "ra",
+     "pitch": "D4",
+     "t": 129.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ga",
+     "pitch": "D4",
+     "t": 130.0,
+     "d": 1.0
+    },
+    {
+     "mora": "to",
+     "pitch": "E4",
+     "t": 131.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ji",
+     "pitch": "F4",
+     "t": 132.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ru",
+     "pitch": "E4",
+     "t": 133.0,
+     "d": 3.0
+    },
+    {
+     "mora": "yo",
+     "pitch": "D4",
+     "t": 136.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ru",
+     "pitch": "D4",
+     "t": 137.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ga",
+     "pitch": "D4",
+     "t": 138.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ku",
+     "pitch": "E4",
+     "t": 139.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ru",
+     "pitch": "C4",
+     "t": 140.0,
+     "d": 4.0
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "bar": 18,
+   "voice": "lead",
+   "ja": "だれかがぼくを みている",
+   "en": "Something is watching me",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "da",
+     "pitch": "D4",
+     "t": 144,
+     "d": 1.0
+    },
+    {
+     "mora": "re",
+     "pitch": "D4",
+     "t": 145.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ka",
+     "pitch": "F4",
+     "t": 146.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ga",
+     "pitch": "F4",
+     "t": 147.0,
+     "d": 1.0
+    },
+    {
+     "mora": "bo",
+     "pitch": "G4",
+     "t": 148.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ku",
+     "pitch": "F4",
+     "t": 149.0,
+     "d": 1.0
+    },
+    {
+     "mora": "o",
+     "pitch": "E4",
+     "t": 150.0,
+     "d": 2.0
+    },
+    {
+     "mora": "mi",
+     "pitch": "E4",
+     "t": 152.0,
+     "d": 1.0
+    },
+    {
+     "mora": "te",
+     "pitch": "E4",
+     "t": 153.0,
+     "d": 1.0
+    },
+    {
+     "mora": "i",
+     "pitch": "F4",
+     "t": 154.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ru",
+     "pitch": "E4",
+     "t": 155.0,
+     "d": 5.0
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "bar": 20,
+   "voice": "lead",
+   "ja": "こわくても このてを",
+   "en": "Even afraid, these hands",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "ko",
+     "pitch": "D4",
+     "t": 160,
+     "d": 1.0
+    },
+    {
+     "mora": "wa",
+     "pitch": "E4",
+     "t": 161.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ku",
+     "pitch": "F4",
+     "t": 162.0,
+     "d": 1.0
+    },
+    {
+     "mora": "te",
+     "pitch": "G4",
+     "t": 163.0,
+     "d": 1.0
+    },
+    {
+     "mora": "mo",
+     "pitch": "G4",
+     "t": 164.0,
+     "d": 4.0
+    },
+    {
+     "mora": "ko",
+     "pitch": "F4",
+     "t": 168.0,
+     "d": 1.0
+    },
+    {
+     "mora": "no",
+     "pitch": "G4",
+     "t": 169.0,
+     "d": 1.0
+    },
+    {
+     "mora": "te",
+     "pitch": "A4",
+     "t": 170.0,
+     "d": 2.0
+    },
+    {
+     "mora": "o",
+     "pitch": "A4",
+     "t": 172.0,
+     "d": 4.0
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "bar": 22,
+   "voice": "lead",
+   "ja": "にぎれ",
+   "en": "Clench them",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "ni",
+     "pitch": "G4",
+     "t": 180.0,
+     "d": 2.0
+    },
+    {
+     "mora": "gi",
+     "pitch": "G4",
+     "t": 182.0,
+     "d": 2.0
+    },
+    {
+     "mora": "re",
+     "pitch": "A4",
+     "t": 184.0,
+     "d": 8.0
+    }
+   ]
+  },
+  {
+   "id": "d1",
+   "bar": 24,
+   "voice": "lead",
+   "ja": "かげよほえろ きばをむけ",
+   "en": "Shadow, howl, bare your fangs",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "ka",
+     "pitch": "D4",
+     "t": 192,
+     "d": 1.0
+    },
+    {
+     "mora": "ge",
+     "pitch": "F4",
+     "t": 193.0,
+     "d": 1.0
+    },
+    {
+     "mora": "yo",
+     "pitch": "A4",
+     "t": 194.0,
+     "d": 2.0
+    },
+    {
+     "mora": "ho",
+     "pitch": "G4",
+     "t": 196.0,
+     "d": 1.0
+    },
+    {
+     "mora": "e",
+     "pitch": "F4",
+     "t": 197.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ro",
+     "pitch": "G4",
+     "t": 198.0,
+     "d": 2.0
+    },
+    {
+     "mora": "ki",
+     "pitch": "E4",
+     "t": 200.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ba",
+     "pitch": "G4",
+     "t": 201.0,
+     "d": 1.0
+    },
+    {
+     "mora": "o",
+     "pitch": "G4",
+     "t": 202.0,
+     "d": 1.0
+    },
+    {
+     "mora": "mu",
+     "pitch": "A4",
+     "t": 203.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ke",
+     "pitch": "G4",
+     "t": 204.0,
+     "d": 4.0
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "bar": 26,
+   "voice": "lead",
+   "ja": "いたみごとうて ゆめのくぎ",
+   "en": "Drive it in with the pain, the nail of a dream",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "i",
+     "pitch": "E4",
+     "t": 208,
+     "d": 1.0
+    },
+    {
+     "mora": "ta",
+     "pitch": "E4",
+     "t": 209.0,
+     "d": 1.0
+    },
+    {
+     "mora": "mi",
+     "pitch": "A4",
+     "t": 210.0,
+     "d": 1.0
+    },
+    {
+     "mora": "go",
+     "pitch": "A4",
+     "t": 211.0,
+     "d": 1.0
+    },
+    {
+     "mora": "to",
+     "pitch": "G4",
+     "t": 212.0,
+     "d": 1.0
+    },
+    {
+     "mora": "u",
+     "pitch": "E4",
+     "t": 213.0,
+     "d": 1.0
+    },
+    {
+     "mora": "te",
+     "pitch": "G4",
+     "t": 214.0,
+     "d": 2.0
+    },
+    {
+     "mora": "yu",
+     "pitch": "F4",
+     "t": 216.0,
+     "d": 1.0
+    },
+    {
+     "mora": "me",
+     "pitch": "E4",
+     "t": 217.0,
+     "d": 1.0
+    },
+    {
+     "mora": "no",
+     "pitch": "D4",
+     "t": 218.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ku",
+     "pitch": "E4",
+     "t": 219.0,
+     "d": 1.0
+    },
+    {
+     "mora": "gi",
+     "pitch": "F4",
+     "t": 220.0,
+     "d": 4.0
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "bar": 28,
+   "voice": "lead",
+   "ja": "てをたたけば いれかわる",
+   "en": "Clap your hands and we trade places",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "te",
+     "pitch": "D4",
+     "t": 224,
+     "d": 1.0
+    },
+    {
+     "mora": "o",
+     "pitch": "F4",
+     "t": 225.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ta",
+     "pitch": "A4",
+     "t": 226.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ta",
+     "pitch": "A4",
+     "t": 227.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ke",
+     "pitch": "G4",
+     "t": 228.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ba",
+     "pitch": "F4",
+     "t": 229.0,
+     "d": 1.0
+    },
+    {
+     "mora": "i",
+     "pitch": "E4",
+     "t": 232.0,
+     "d": 1.0
+    },
+    {
+     "mora": "re",
+     "pitch": "G4",
+     "t": 233.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ka",
+     "pitch": "G4",
+     "t": 234.0,
+     "d": 1.0
+    },
+    {
+     "mora": "wa",
+     "pitch": "A4",
+     "t": 235.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ru",
+     "pitch": "A4",
+     "t": 236.0,
+     "d": 4.0
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "bar": 30,
+   "voice": "lead",
+   "ja": "くろくひかれ このこぶし",
+   "en": "Shine black, this fist",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "ku",
+     "pitch": "A4",
+     "t": 240,
+     "d": 1.0
+    },
+    {
+     "mora": "ro",
+     "pitch": "A4",
+     "t": 241.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ku",
+     "pitch": "G4",
+     "t": 242.0,
+     "d": 1.0
+    },
+    {
+     "mora": "hi",
+     "pitch": "A4",
+     "t": 243.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ka",
+     "pitch": "Bb4",
+     "t": 244.0,
+     "d": 1.0
+    },
+    {
+     "mora": "re",
+     "pitch": "A4",
+     "t": 245.0,
+     "d": 3.0
+    },
+    {
+     "mora": "ko",
+     "pitch": "F4",
+     "t": 248.0,
+     "d": 1.0
+    },
+    {
+     "mora": "no",
+     "pitch": "G4",
+     "t": 249.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ko",
+     "pitch": "A4",
+     "t": 250.0,
+     "d": 1.0
+    },
+    {
+     "mora": "bu",
+     "pitch": "A4",
+     "t": 251.0,
+     "d": 1.0
+    },
+    {
+     "mora": "shi",
+     "pitch": "D5",
+     "t": 252.0,
+     "d": 4.0
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "bar": 32,
+   "voice": "lead",
+   "ja": "あおとあかが とけあって",
+   "en": "Blue and red melt into one",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "a",
+     "pitch": "D4",
+     "t": 256,
+     "d": 1.0
+    },
+    {
+     "mora": "o",
+     "pitch": "F4",
+     "t": 257.0,
+     "d": 1.0
+    },
+    {
+     "mora": "to",
+     "pitch": "F4",
+     "t": 258.0,
+     "d": 1.0
+    },
+    {
+     "mora": "a",
+     "pitch": "A4",
+     "t": 259.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ka",
+     "pitch": "A4",
+     "t": 260.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ga",
+     "pitch": "G4",
+     "t": 261.0,
+     "d": 3.0
+    },
+    {
+     "mora": "to",
+     "pitch": "G4",
+     "t": 264.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ke",
+     "pitch": "G4",
+     "t": 265.0,
+     "d": 1.0
+    },
+    {
+     "mora": "a",
+     "pitch": "A4",
+     "t": 266.0,
+     "d": 1.0
+    },
+    {
+     "mora": "Q",
+     "pitch": "A4",
+     "t": 267.0,
+     "d": 1.0
+    },
+    {
+     "mora": "te",
+     "pitch": "C5",
+     "t": 268.0,
+     "d": 4.0
+    }
+   ]
+  },
+  {
+   "id": "d6",
+   "bar": 34,
+   "voice": "lead",
+   "ja": "むげんのそこへ おちていけ",
+   "en": "Fall to the bottom of infinity",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "mu",
+     "pitch": "A4",
+     "t": 272,
+     "d": 1.0
+    },
+    {
+     "mora": "ge",
+     "pitch": "A4",
+     "t": 273.0,
+     "d": 1.0
+    },
+    {
+     "mora": "N",
+     "pitch": "A4",
+     "t": 274.0,
+     "d": 1.0
+    },
+    {
+     "mora": "no",
+     "pitch": "G4",
+     "t": 275.0,
+     "d": 1.0
+    },
+    {
+     "mora": "so",
+     "pitch": "F4",
+     "t": 276.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ko",
+     "pitch": "E4",
+     "t": 277.0,
+     "d": 1.0
+    },
+    {
+     "mora": "e",
+     "pitch": "D4",
+     "t": 278.0,
+     "d": 2.0
+    },
+    {
+     "mora": "o",
+     "pitch": "F4",
+     "t": 280.0,
+     "d": 1.0
+    },
+    {
+     "mora": "chi",
+     "pitch": "E4",
+     "t": 281.0,
+     "d": 1.0
+    },
+    {
+     "mora": "te",
+     "pitch": "D4",
+     "t": 282.0,
+     "d": 1.0
+    },
+    {
+     "mora": "i",
+     "pitch": "C4",
+     "t": 283.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ke",
+     "pitch": "D4",
+     "t": 284.0,
+     "d": 4.0
+    }
+   ]
+  },
+  {
+   "id": "e1",
+   "bar": 36,
+   "voice": "lead",
+   "ja": "はこにきえた あおいそら",
+   "en": "The blue sky that vanished into a box",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "ha",
+     "pitch": "D4",
+     "t": 288,
+     "d": 1.0
+    },
+    {
+     "mora": "ko",
+     "pitch": "D4",
+     "t": 289.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ni",
+     "pitch": "F4",
+     "t": 290.0,
+     "d": 2.0
+    },
+    {
+     "mora": "ki",
+     "pitch": "E4",
+     "t": 292.0,
+     "d": 1.0
+    },
+    {
+     "mora": "e",
+     "pitch": "D4",
+     "t": 293.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ta",
+     "pitch": "C4",
+     "t": 294.0,
+     "d": 2.0
+    },
+    {
+     "mora": "a",
+     "pitch": "A3",
+     "t": 296.0,
+     "d": 1.0
+    },
+    {
+     "mora": "o",
+     "pitch": "C4",
+     "t": 297.0,
+     "d": 1.0
+    },
+    {
+     "mora": "i",
+     "pitch": "C4",
+     "t": 298.0,
+     "d": 2.0
+    },
+    {
+     "mora": "so",
+     "pitch": "D4",
+     "t": 300.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ra",
+     "pitch": "C4",
+     "t": 301.0,
+     "d": 3.0
+    }
+   ]
+  },
+  {
+   "id": "e2",
+   "bar": 38,
+   "voice": "lead",
+   "ja": "うみがみたいと いったひと",
+   "en": "The one who said he wanted to see the sea",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "u",
+     "pitch": "Bb3",
+     "t": 304,
+     "d": 1.0
+    },
+    {
+     "mora": "mi",
+     "pitch": "Bb3",
+     "t": 305.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ga",
+     "pitch": "D4",
+     "t": 306.0,
+     "d": 1.0
+    },
+    {
+     "mora": "mi",
+     "pitch": "D4",
+     "t": 307.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ta",
+     "pitch": "F4",
+     "t": 308.0,
+     "d": 1.0
+    },
+    {
+     "mora": "i",
+     "pitch": "E4",
+     "t": 309.0,
+     "d": 1.0
+    },
+    {
+     "mora": "to",
+     "pitch": "D4",
+     "t": 310.0,
+     "d": 2.0
+    },
+    {
+     "mora": "i",
+     "pitch": "C4",
+     "t": 312.0,
+     "d": 1.0
+    },
+    {
+     "mora": "Q",
+     "pitch": "C4",
+     "t": 313.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ta",
+     "pitch": "C4",
+     "t": 314.0,
+     "d": 1.0
+    },
+    {
+     "mora": "hi",
+     "pitch": "A3",
+     "t": 315.0,
+     "d": 2.0
+    },
+    {
+     "mora": "to",
+     "pitch": "A3",
+     "t": 317.0,
+     "d": 3.0
+    }
+   ]
+  },
+  {
+   "id": "e3",
+   "bar": 40,
+   "voice": "lead",
+   "ja": "あとはたのむと わらうから",
+   "en": "\"The rest is yours,\" he said, and smiled",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "a",
+     "pitch": "Bb3",
+     "t": 320,
+     "d": 1.0
+    },
+    {
+     "mora": "to",
+     "pitch": "Bb3",
+     "t": 321.0,
+     "d": 1.0
+    },
+    {
+     "mora": "wa",
+     "pitch": "Eb4",
+     "t": 322.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ta",
+     "pitch": "Eb4",
+     "t": 323.0,
+     "d": 1.0
+    },
+    {
+     "mora": "no",
+     "pitch": "F4",
+     "t": 324.0,
+     "d": 1.0
+    },
+    {
+     "mora": "mu",
+     "pitch": "Eb4",
+     "t": 325.0,
+     "d": 1.0
+    },
+    {
+     "mora": "to",
+     "pitch": "D4",
+     "t": 326.0,
+     "d": 2.0
+    },
+    {
+     "mora": "wa",
+     "pitch": "D4",
+     "t": 328.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ra",
+     "pitch": "D4",
+     "t": 329.0,
+     "d": 1.0
+    },
+    {
+     "mora": "u",
+     "pitch": "F4",
+     "t": 330.0,
+     "d": 2.0
+    },
+    {
+     "mora": "ka",
+     "pitch": "Eb4",
+     "t": 332.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ra",
+     "pitch": "D4",
+     "t": 333.0,
+     "d": 3.0
+    }
+   ]
+  },
+  {
+   "id": "e4",
+   "bar": 42,
+   "voice": "lead",
+   "ja": "みっつのかげが ひとつになる",
+   "en": "Three shadows become one",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "mi",
+     "pitch": "Bb3",
+     "t": 336,
+     "d": 1.0
+    },
+    {
+     "mora": "Q",
+     "pitch": "Bb3",
+     "t": 337.0,
+     "d": 1.0
+    },
+    {
+     "mora": "tsu",
+     "pitch": "Bb3",
+     "t": 338.0,
+     "d": 1.0
+    },
+    {
+     "mora": "no",
+     "pitch": "D4",
+     "t": 339.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ka",
+     "pitch": "G4",
+     "t": 340.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ge",
+     "pitch": "F4",
+     "t": 341.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ga",
+     "pitch": "E4",
+     "t": 342.0,
+     "d": 2.0
+    },
+    {
+     "mora": "hi",
+     "pitch": "E4",
+     "t": 344.0,
+     "d": 1.0
+    },
+    {
+     "mora": "to",
+     "pitch": "E4",
+     "t": 345.0,
+     "d": 1.0
+    },
+    {
+     "mora": "tsu",
+     "pitch": "E4",
+     "t": 346.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ni",
+     "pitch": "F4",
+     "t": 347.0,
+     "d": 1.0
+    },
+    {
+     "mora": "na",
+     "pitch": "E4",
+     "t": 348.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ru",
+     "pitch": "C#4",
+     "t": 349.0,
+     "d": 3.0
+    }
+   ]
+  },
+  {
+   "id": "e5",
+   "bar": 44,
+   "voice": "lead",
+   "ja": "あめよ なかないで",
+   "en": "Rain, please do not cry",
+   "beats8": 32.0,
+   "notes": [
+    {
+     "mora": "a",
+     "pitch": "F4",
+     "t": 352,
+     "d": 2.0
+    },
+    {
+     "mora": "me",
+     "pitch": "G4",
+     "t": 354.0,
+     "d": 2.0
+    },
+    {
+     "mora": "yo",
+     "pitch": "A4",
+     "t": 356.0,
+     "d": 8.0
+    },
+    {
+     "mora": "na",
+     "pitch": "F4",
+     "t": 368.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ka",
+     "pitch": "F4",
+     "t": 369.0,
+     "d": 1.0
+    },
+    {
+     "mora": "na",
+     "pitch": "A4",
+     "t": 370.0,
+     "d": 2.0
+    },
+    {
+     "mora": "i",
+     "pitch": "G4",
+     "t": 372.0,
+     "d": 2.0
+    },
+    {
+     "mora": "de",
+     "pitch": "F4>E4",
+     "t": 374.0,
+     "d": 10.0
+    }
+   ]
+  },
+  {
+   "id": "f1",
+   "bar": 48,
+   "voice": "choir",
+   "ja": "のろい",
+   "en": "Curse",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "no",
+     "pitch": "D3",
+     "t": 384,
+     "d": 4.0
+    },
+    {
+     "mora": "ro",
+     "pitch": "D3",
+     "t": 388.0,
+     "d": 4.0
+    },
+    {
+     "mora": "i",
+     "pitch": "Eb3",
+     "t": 392.0,
+     "d": 8.0
+    }
+   ]
+  },
+  {
+   "id": "f2",
+   "bar": 50,
+   "voice": "choir",
+   "ja": "ひらけ ひらけ",
+   "en": "Open. Open.",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "hi",
+     "pitch": "D3",
+     "t": 400,
+     "d": 2.0
+    },
+    {
+     "mora": "ra",
+     "pitch": "F3",
+     "t": 402.0,
+     "d": 2.0
+    },
+    {
+     "mora": "ke",
+     "pitch": "Eb3",
+     "t": 404.0,
+     "d": 4.0
+    },
+    {
+     "mora": "hi",
+     "pitch": "D3",
+     "t": 408.0,
+     "d": 2.0
+    },
+    {
+     "mora": "ra",
+     "pitch": "G3",
+     "t": 410.0,
+     "d": 2.0
+    },
+    {
+     "mora": "ke",
+     "pitch": "F3",
+     "t": 412.0,
+     "d": 4.0
+    }
+   ]
+  },
+  {
+   "id": "f3",
+   "bar": 52,
+   "voice": "choir",
+   "ja": "きれ きれ きれ きれ きれ",
+   "en": "Cut, cut, cut",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "ki",
+     "pitch": "D4",
+     "t": 416,
+     "d": 1.0
+    },
+    {
+     "mora": "re",
+     "pitch": "D4",
+     "t": 417.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ki",
+     "pitch": "D4",
+     "t": 420.0,
+     "d": 1.0
+    },
+    {
+     "mora": "re",
+     "pitch": "D4",
+     "t": 421.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ki",
+     "pitch": "D4",
+     "t": 424.0,
+     "d": 1.0
+    },
+    {
+     "mora": "re",
+     "pitch": "D4",
+     "t": 425.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ki",
+     "pitch": "Eb4",
+     "t": 426.0,
+     "d": 1.0
+    },
+    {
+     "mora": "re",
+     "pitch": "Eb4",
+     "t": 427.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ki",
+     "pitch": "F4",
+     "t": 428.0,
+     "d": 1.0
+    },
+    {
+     "mora": "re",
+     "pitch": "F4",
+     "t": 429.0,
+     "d": 1.0
+    }
+   ]
+  },
+  {
+   "id": "f4",
+   "bar": 54,
+   "voice": "choir",
+   "ja": "まわれ まわれ",
+   "en": "Turn. Turn.",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "ma",
+     "pitch": "D3",
+     "t": 432,
+     "d": 2.0
+    },
+    {
+     "mora": "wa",
+     "pitch": "F3",
+     "t": 434.0,
+     "d": 2.0
+    },
+    {
+     "mora": "re",
+     "pitch": "Eb3",
+     "t": 436.0,
+     "d": 4.0
+    },
+    {
+     "mora": "ma",
+     "pitch": "D3",
+     "t": 440.0,
+     "d": 2.0
+    },
+    {
+     "mora": "wa",
+     "pitch": "G3",
+     "t": 442.0,
+     "d": 2.0
+    },
+    {
+     "mora": "re",
+     "pitch": "A3",
+     "t": 444.0,
+     "d": 4.0
+    }
+   ]
+  },
+  {
+   "id": "f5",
+   "bar": 56,
+   "voice": "whisper",
+   "ja": "ひらけ",
+   "en": "Open",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "hi",
+     "pitch": "D3",
+     "t": 452.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ra",
+     "pitch": "D3",
+     "t": 453.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ke",
+     "pitch": "D3",
+     "t": 454.0,
+     "d": 2.0
+    }
+   ]
+  },
+  {
+   "id": "h1",
+   "bar": 58,
+   "voice": "lead",
+   "ja": "いかりでもいい もえてゆけ",
+   "en": "Wrath will do, burn on",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "i",
+     "pitch": "E4",
+     "t": 464,
+     "d": 1.0
+    },
+    {
+     "mora": "ka",
+     "pitch": "G4",
+     "t": 465.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ri",
+     "pitch": "B4",
+     "t": 466.0,
+     "d": 1.0
+    },
+    {
+     "mora": "de",
+     "pitch": "B4",
+     "t": 467.0,
+     "d": 1.0
+    },
+    {
+     "mora": "mo",
+     "pitch": "A4",
+     "t": 468.0,
+     "d": 1.0
+    },
+    {
+     "mora": "i",
+     "pitch": "G4",
+     "t": 469.0,
+     "d": 1.0
+    },
+    {
+     "mora": "i",
+     "pitch": "A4",
+     "t": 470.0,
+     "d": 2.0
+    },
+    {
+     "mora": "mo",
+     "pitch": "F#4",
+     "t": 472.0,
+     "d": 1.0
+    },
+    {
+     "mora": "e",
+     "pitch": "A4",
+     "t": 473.0,
+     "d": 1.0
+    },
+    {
+     "mora": "te",
+     "pitch": "A4",
+     "t": 474.0,
+     "d": 1.0
+    },
+    {
+     "mora": "yu",
+     "pitch": "B4",
+     "t": 475.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ke",
+     "pitch": "A4",
+     "t": 476.0,
+     "d": 4.0
+    }
+   ]
+  },
+  {
+   "id": "h2",
+   "bar": 60,
+   "voice": "lead",
+   "ja": "きみがくれた いたみごと",
+   "en": "With all the pain you gave me",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "ki",
+     "pitch": "F#4",
+     "t": 480,
+     "d": 1.0
+    },
+    {
+     "mora": "mi",
+     "pitch": "F#4",
+     "t": 481.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ga",
+     "pitch": "B4",
+     "t": 482.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ku",
+     "pitch": "B4",
+     "t": 483.0,
+     "d": 1.0
+    },
+    {
+     "mora": "re",
+     "pitch": "A4",
+     "t": 484.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ta",
+     "pitch": "F#4",
+     "t": 485.0,
+     "d": 3.0
+    },
+    {
+     "mora": "i",
+     "pitch": "G4",
+     "t": 488.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ta",
+     "pitch": "F#4",
+     "t": 489.0,
+     "d": 1.0
+    },
+    {
+     "mora": "mi",
+     "pitch": "E4",
+     "t": 490.0,
+     "d": 1.0
+    },
+    {
+     "mora": "go",
+     "pitch": "F#4",
+     "t": 491.0,
+     "d": 1.0
+    },
+    {
+     "mora": "to",
+     "pitch": "G4",
+     "t": 492.0,
+     "d": 4.0
+    }
+   ]
+  },
+  {
+   "id": "h3",
+   "bar": 62,
+   "voice": "lead",
+   "ja": "くろいはなが さきみだれ",
+   "en": "Black flowers bloom and bloom",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "ku",
+     "pitch": "E4",
+     "t": 496,
+     "d": 1.0
+    },
+    {
+     "mora": "ro",
+     "pitch": "G4",
+     "t": 497.0,
+     "d": 1.0
+    },
+    {
+     "mora": "i",
+     "pitch": "B4",
+     "t": 498.0,
+     "d": 2.0
+    },
+    {
+     "mora": "ha",
+     "pitch": "A4",
+     "t": 500.0,
+     "d": 1.0
+    },
+    {
+     "mora": "na",
+     "pitch": "G4",
+     "t": 501.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ga",
+     "pitch": "A4",
+     "t": 502.0,
+     "d": 2.0
+    },
+    {
+     "mora": "sa",
+     "pitch": "F#4",
+     "t": 504.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ki",
+     "pitch": "A4",
+     "t": 505.0,
+     "d": 1.0
+    },
+    {
+     "mora": "mi",
+     "pitch": "A4",
+     "t": 506.0,
+     "d": 1.0
+    },
+    {
+     "mora": "da",
+     "pitch": "B4",
+     "t": 507.0,
+     "d": 1.0
+    },
+    {
+     "mora": "re",
+     "pitch": "D5",
+     "t": 508.0,
+     "d": 4.0
+    }
+   ]
+  },
+  {
+   "id": "h4",
+   "bar": 64,
+   "voice": "lead",
+   "ja": "のろいよ いまとけろ",
+   "en": "Curse, come undone",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "no",
+     "pitch": "B4",
+     "t": 512,
+     "d": 1.0
+    },
+    {
+     "mora": "ro",
+     "pitch": "B4",
+     "t": 513.0,
+     "d": 1.0
+    },
+    {
+     "mora": "i",
+     "pitch": "A4",
+     "t": 514.0,
+     "d": 1.0
+    },
+    {
+     "mora": "yo",
+     "pitch": "B4",
+     "t": 515.0,
+     "d": 5.0
+    },
+    {
+     "mora": "i",
+     "pitch": "G4",
+     "t": 520.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ma",
+     "pitch": "F#4",
+     "t": 521.0,
+     "d": 1.0
+    },
+    {
+     "mora": "to",
+     "pitch": "E4",
+     "t": 522.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ke",
+     "pitch": "F#4",
+     "t": 523.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ro",
+     "pitch": "E4",
+     "t": 524.0,
+     "d": 4.0
+    }
+   ]
+  },
+  {
+   "id": "g2",
+   "bar": 68,
+   "voice": "lead",
+   "ja": "ゆきがとけて てをつなぐ",
+   "en": "The snow melts, our hands join",
+   "beats8": 24.0,
+   "notes": [
+    {
+     "mora": "yu",
+     "pitch": "A3",
+     "t": 544,
+     "d": 1.0
+    },
+    {
+     "mora": "ki",
+     "pitch": "B3",
+     "t": 545.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ga",
+     "pitch": "C4",
+     "t": 546.0,
+     "d": 2.0
+    },
+    {
+     "mora": "to",
+     "pitch": "B3",
+     "t": 548.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ke",
+     "pitch": "A3",
+     "t": 549.0,
+     "d": 1.0
+    },
+    {
+     "mora": "te",
+     "pitch": "G3",
+     "t": 550.0,
+     "d": 2.0
+    },
+    {
+     "mora": "te",
+     "pitch": "A3",
+     "t": 552.0,
+     "d": 1.0
+    },
+    {
+     "mora": "o",
+     "pitch": "B3",
+     "t": 553.0,
+     "d": 1.0
+    },
+    {
+     "mora": "tsu",
+     "pitch": "D4",
+     "t": 554.0,
+     "d": 2.0
+    },
+    {
+     "mora": "na",
+     "pitch": "B3",
+     "t": 556.0,
+     "d": 1.0
+    },
+    {
+     "mora": "gu",
+     "pitch": "A3",
+     "t": 557.0,
+     "d": 3.0
+    }
+   ]
+  },
+  {
+   "id": "g3",
+   "bar": 71,
+   "voice": "lead",
+   "ja": "のろいもいわいも おなじくち",
+   "en": "Curse and blessing come from the same mouth",
+   "beats8": 16.0,
+   "notes": [
+    {
+     "mora": "no",
+     "pitch": "E4",
+     "t": 568,
+     "d": 1.0
+    },
+    {
+     "mora": "ro",
+     "pitch": "G4",
+     "t": 569.0,
+     "d": 1.0
+    },
+    {
+     "mora": "i",
+     "pitch": "E4",
+     "t": 570.0,
+     "d": 1.0
+    },
+    {
+     "mora": "mo",
+     "pitch": "D4",
+     "t": 571.0,
+     "d": 1.0
+    },
+    {
+     "mora": "i",
+     "pitch": "E4",
+     "t": 572.0,
+     "d": 1.0
+    },
+    {
+     "mora": "wa",
+     "pitch": "G4",
+     "t": 573.0,
+     "d": 1.0
+    },
+    {
+     "mora": "i",
+     "pitch": "A4",
+     "t": 574.0,
+     "d": 1.0
+    },
+    {
+     "mora": "mo",
+     "pitch": "G4",
+     "t": 575.0,
+     "d": 1.0
+    },
+    {
+     "mora": "o",
+     "pitch": "F#4",
+     "t": 576.0,
+     "d": 1.0
+    },
+    {
+     "mora": "na",
+     "pitch": "F#4",
+     "t": 577.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ji",
+     "pitch": "G4",
+     "t": 578.0,
+     "d": 1.0
+    },
+    {
+     "mora": "ku",
+     "pitch": "A4",
+     "t": 579.0,
+     "d": 1.0
+    },
+    {
+     "mora": "chi",
+     "pitch": "A4",
+     "t": 580.0,
+     "d": 4.0
+    }
+   ]
+  },
+  {
+   "id": "g4",
+   "bar": 73,
+   "voice": "lead",
+   "ja": "いきて",
+   "en": "Live",
+   "beats8": 24.0,
+   "notes": [
+    {
+     "mora": "i",
+     "pitch": "D4",
+     "t": 588.0,
+     "d": 2.0
+    },
+    {
+     "mora": "ki",
+     "pitch": "E4",
+     "t": 590.0,
+     "d": 2.0
+    },
+    {
+     "mora": "te",
+     "pitch": "G4",
+     "t": 592.0,
+     "d": 10.0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+.mm
+cache/
+out/
+dist/
+qa/
+ref/
+docs/
+.slots/
+__pycache__/
+*.pyc
+.DS_Store
+tools/ear.py
+tools/listen.py
+tools/governor.py
+tools/whisper_ja.py
+tools/cmp.py
