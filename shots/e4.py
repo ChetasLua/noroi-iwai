@@ -1,7 +1,7 @@
 """e4  THREE SHADOWS.  みっつのかげが ひとつになる
 Low over wet asphalt, looking toward one street lamp.  Three pairs of shoes in its glow, three long shadows running at us.  Two steps, then stillness.
 One shadow comes apart in petals and her shoes are gone; one is drunk by a black puddle and his shoes are gone; one bows its head.  Rain."""
-import sys, os
+import sys, os, zlib
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..')); sys.path.insert(0, ROOT)
 import numpy as np, cv2, math
 from jj import W, H, comp, kit
@@ -25,7 +25,7 @@ MC = np.array([WHO['megumi'] * 1.12, FEET - .40])                       # where 
 
 
 def C(c): return rgb(c) if isinstance(c, str) else np.asarray(c, f32)
-def rnd(*s): return np.random.default_rng(abs(hash(s)) % (1 << 31))
+def rnd(*s): return np.random.default_rng(zlib.crc32(repr(s).encode()))   # stable across runs (hash() is salted per process)
 def gp(Q): Q = np.atleast_2d(np.asarray(Q, float)); return np.c_[(Q[:, 0] - GX) * PG, (Q[:, 1] - GY) * PG]          # road metres -> ground raster px
 def s2g(Q): q = np.c_[np.atleast_2d(Q), np.ones(len(np.atleast_2d(Q)))] @ HINV.T; return q[:, :2] / q[:, 2:3]                 # screen px -> ground raster px
 def sp(Q): Q = np.atleast_2d(np.asarray(Q, float)); return CAM.project(np.c_[Q, np.zeros(len(Q))] if Q.shape[1] == 2 else Q)[0]

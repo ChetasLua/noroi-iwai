@@ -1,7 +1,7 @@
 """h2  きみがくれた いたみごと
 0-33 side-tracking run right to left through fire and slashes: sprint, slide under the cut that halves the street, vault, airborne twist.
 33-72 four exchanged blows with Sukuna on 36, 45, 54, 63: over his shoulder, ground level, from above, tight side."""
-import sys, os
+import sys, os, zlib
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..')); sys.path.insert(0, ROOT)
 import numpy as np, cv2, math
 from jj import W, H, comp, kit, fx, world
@@ -26,7 +26,7 @@ HITS = (36, 45, 54, 63)
 
 def C(c): return rgb(c) if isinstance(c, str) else np.asarray(c, f32)
 def st(p, x, y, z, h): return dict(pose=POSES[p] if isinstance(p, str) else p, x=x, y=y, z=z, heading=h)
-def rnd(*s): return np.random.default_rng(abs(hash(s)) % (1 << 31))
+def rnd(*s): return np.random.default_rng(zlib.crc32(repr(s).encode()))   # stable across runs (hash() is salted per process)
 def lerp(f, K, e=comp.ease): return float(comp.lerp_keys(f, K, e))
 
 
