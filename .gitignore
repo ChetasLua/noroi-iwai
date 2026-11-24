@@ -1,8 +1,8 @@
 .mm
-cache/
-out/
-dist/
-qa/
+cache/*
+out/*
+dist/*
+qa/*
 ref/
 docs/
 .slots/
@@ -14,3 +14,7 @@ tools/listen.py
 tools/governor.py
 tools/whisper_ja.py
 tools/cmp.py
+!cache/.gitkeep
+!out/.gitkeep
+!dist/.gitkeep
+!qa/.gitkeep
